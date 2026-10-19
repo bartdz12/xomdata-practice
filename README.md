@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**56** problems solved on [Xom Data](https://xomdata.com/practice).
+**93** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 2 | 0 | 0 | 0 | 2 |
-| SQL | 54 | 0 | 0 | 0 | 54 |
+| Python | 6 | 0 | 0 | 0 | 6 |
+| SQL | 86 | 1 | 0 | 0 | 87 |
 
 **Recently solved**
 
-- [easy-join-007](https://xomdata.com/practice/easy-join-007) · Easy · 2026-10-14
-- [easy-groupby-005](https://xomdata.com/practice/easy-groupby-005) · Easy · 2026-10-14
-- [easy-groupby-004](https://xomdata.com/practice/easy-groupby-004) · Easy · 2026-10-14
-- [easy-groupby-003](https://xomdata.com/practice/easy-groupby-003) · Easy · 2026-10-14
-- [easy-having-001](https://xomdata.com/practice/easy-having-001) · Easy · 2026-10-14
-- [py-grade-letter](https://xomdata.com/practice/py-grade-letter) · Easy · 2026-10-13
-- [easy-join-005](https://xomdata.com/practice/easy-join-005) · Easy · 2026-10-13
-- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-10-13
-- [easy-count-011](https://xomdata.com/practice/easy-count-011) · Easy · 2026-10-13
-- [easy-count-010](https://xomdata.com/practice/easy-count-010) · Easy · 2026-10-13
+- [medium-classify-001](https://xomdata.com/practice/medium-classify-001) · Medium · 2026-10-19
+- [medium-active-001](https://xomdata.com/practice/medium-active-001) · Easy · 2026-10-19
+- [medium-active-002](https://xomdata.com/practice/medium-active-002) · Easy · 2026-10-19
+- [easy-alias-001](https://xomdata.com/practice/easy-alias-001) · Easy · 2026-10-19
+- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Easy · 2026-10-18
+- [medium-monetary-002](https://xomdata.com/practice/medium-monetary-002) · Easy · 2026-10-18
+- [easy-trim-001](https://xomdata.com/practice/easy-trim-001) · Easy · 2026-10-18
+- [easy-sum-005](https://xomdata.com/practice/easy-sum-005) · Easy · 2026-10-18
+- [easy-substr-001](https://xomdata.com/practice/easy-substr-001) · Easy · 2026-10-18
+- [easy-string-001](https://xomdata.com/practice/easy-string-001) · Easy · 2026-10-18
 
-_Synced 56 solutions · last update 2026-10-14_
+_Synced 93 solutions · last update 2026-10-19_
 
 <!-- xomdata:stats:end -->
 
